@@ -4,4 +4,6 @@
 
 -ALB
 
+-RDS MySQL
+
 -rest api = /api/student/getStudent/{studentId}
